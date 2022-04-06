@@ -17,28 +17,28 @@ The main objective of this case study is, identifying the pattern of defaulters.
 
 ### Technology used:
 
-pandas
-numpy
-matplotlib.pyplot
-seaborn
-warnings
+- pandas
+- numpy
+- matplotlib.pyplot
+- seaborn
+- warnings
 
 ### Conclusion
 
 Significant columns:
 Below are the colunms which contributed more for this case study.
 
-• Loan Status
-• Term
-• Interest rate
-• Grade
-• Home ownership
-• Address state
-• Loan Amount
-• Emp length 
-• Purpose
-• Loan issue date
+- Loan Status
+- Term
+- Interest rate
+- Grade
+- Home ownership
+- Address state
+- Loan Amount
+- Emp length 
+- Purpose
+- Loan issue date
 
 Contributers:
-[Aisharya Ravichandran](https://github.com/Aisharya16)
-[Shubham Tiwari](https://github.com/tiwari08)
+- [Aisharya Ravichandran](https://github.com/Aisharya16)
+- [Shubham Tiwari](https://github.com/tiwari08)
