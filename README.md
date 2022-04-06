@@ -5,6 +5,7 @@ Lending-club-case-study
 Introduction
 Technology used
 Conclusion
+Contributors
 
 ### Indroduction:
 
@@ -37,3 +38,7 @@ Below are the colunms which contributed more for this case study.
 • Emp length 
 • Purpose
 • Loan issue date
+
+Contributers:
+[Aisharya Ravichandran](https://github.com/Aisharya16)
+[Shubham Tiwari](https://github.com/tiwari08)
